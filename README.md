@@ -13,3 +13,13 @@ A little about me:
 - 🌱 I’m currently learning technology from the .NET, Mobile and FrontEnd universe.
 - 📫 How to reach me: 
 
+### Analytics ⚙️
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marmendonca&hide_border=true)
+
+<p align="left">
+<a href="https://github.com/marcialwushu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marmendonca&count_private=true&show_icons=true" alt="marmendonca"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marmendonca&layout=compact&langs_count=8"/>
+</a>
+</p>
