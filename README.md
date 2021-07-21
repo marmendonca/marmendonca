@@ -1,4 +1,4 @@
-![](https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5f0a309642c1865c609c1cac/90786249d0f501a332057f8db5f01ac3/bc9853a836254c4e926b405fa665ba19.gif)
+![](https://user-images.githubusercontent.com/135553/106216213-6960f680-61b1-11eb-8f89-3caa72b129a2.gif)
 
 # Welcome to my GitHub :rocket:
 
@@ -11,7 +11,6 @@ A little about me:
 - :brazil: Fortaleza, Ceará.
 - 🔭 I’m currently working with C#, Angular and SQLServer.
 - 🌱 I’m currently learning technology from the .NET, Mobile and FrontEnd universe.
-- 📫 How to reach me: 
 
 ### Analytics ⚙️
 
@@ -23,3 +22,8 @@ A little about me:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marmendonca&layout=compact&langs_count=8"/>
 </a>
 </p>
+
+### Let's connect ? 🤝
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-augustus)](https://www.linkedin.com/in/lucas-augustus)-->
+
