@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my GitHub :rocket:
 
-<!--
-**marmendonca/marmendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+### Hi there :wave:
+
+A little about me:
+
+My name is Marília Mendonça, i have 23 years and i'm formation in Information System.
+
+- U+1F1E7
+- 🔭 I’m currently working with C#, Angular and SQLServer.
+- 🌱 I’m currently learning technology from the .NET, Mobile and FrontEnd universe.
+- 📫 How to reach me: .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
