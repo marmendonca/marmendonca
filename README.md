@@ -25,5 +25,5 @@ A little about me:
 
 ### Let's connect ? 🤝
 
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-augustus)](https://www.linkedin.com/in/lucas-augustus)-->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marília-mendonça-7b85641b8)](https://www.linkedin.com/in/marília-mendonça-7b85641b8)
 
