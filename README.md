@@ -9,7 +9,7 @@ A little about me:
 - :woman_technologist: My name is Marília Mendonça and i'm student of the Information Systems course.
 
 - :brazil: Fortaleza, Ceará.
-- 🔭 I’m currently working with C#, Angular and SQLServer.
+- 🔭 I’m currently working with C# and Angular.
 - 🌱 I’m currently learning technology from the .NET, Mobile and FrontEnd universe.
 
 ### Analytics ⚙️
